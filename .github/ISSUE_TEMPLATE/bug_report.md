@@ -1,35 +1,25 @@
 ---
-name: Bug Report Template
-about: 버그 리포트 이슈 템플릿
-title: "bugfix: "
-labels: "bug"
+name: Feature Template
+about: 기능 요청 이슈 템플릿
+title: "[Feature]"
+labels: ""
 assignees: ""
 ---
 
-# 🐞 Bug Report
+# ✨ Feature
 
-### 1. 어떤 버그인가요?
+### 1. 어떤 기능인가요?
 
-> 어떤 버그인지 간결하게 설명해주세요.
-
-<br>
-
-### 2. 어떤 상황에서 발생한 버그인가요?
-
-> (가능하면) Given-When-Then 형식으로 서술해주세요.
+- 현재 개발하고자 하는 기능의 배경 및 주 기능 간략 설명
 
 <br>
 
-### 3. 예상 결과
+### 2. 작업 상세 내용
 
-> 예상했던 정상적인 결과가 어떤 것이었는지 설명해주세요.
-
-<br>
-
-### 4. 현재 결과에 대한 스크린샷 or 재현 영상
-
-> 재현 영상 혹은 스크린샷을 올려주세요.
+- [ ] TODO
+- [ ] TODO
+- [ ] TODO
 
 <br>
 
-### 4. 참고할만한 자료 (선택)
+### 3. 참고할만한 자료 (선택)
