@@ -1,8 +1,8 @@
 ---
-name: Bug Report Template
-about: 버그 리포트 이슈 템플릿
-title: "bugfix: "
-labels: "bug"
+name: Feature Todo template
+about: 기능 요구사항 이슈 템플릿
+title: "feat: "
+labels: ""
 assignees: ""
 ---
 
